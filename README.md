@@ -1,2 +1,2 @@
 # Sman
- a basic java-script like string manipulations header
+ a basic java-script like string manipulations header for c++
